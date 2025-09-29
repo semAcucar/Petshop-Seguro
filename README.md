@@ -31,8 +31,14 @@
 
 ### Modelos de Diagramas
 
-* **[AQUI SERÃO INSERIDOS OS DIAGRAMAS: Contexto, Componentes e Fluxo de Dados]**
-    * *Nota:* O professor conferirá a inserção das imagens dos diagramas após a criação.
+### 1. Diagrama de Contexto
+<img width="751" height="304" alt="Image" src="https://github.com/user-attachments/assets/b1d0d902-3f33-4342-9a28-95bcedd90676" />
+
+### 2. Diagrama de Componentes
+<img width="651" height="376" alt="Diagrama_de_componentes" src="https://github.com/user-attachments/assets/3e8e3039-61ae-4fa1-a939-06e90f66ea51" />
+
+### 3. Diagrama de Fluxo de dados seguros
+<img width="661" height="515" alt="Fluxo_de_dados_seguros" src="https://github.com/user-attachments/assets/f44ff021-1a7a-4596-9282-f3c6808f05d1" />
 
 ### Modelagem de Ameaças (STRIDE)
 
