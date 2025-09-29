@@ -29,7 +29,7 @@
 
 ## 3. Modelagem de Arquitetura e Ameaças
 
-### Modelos de Diagramas (Mínimo 3)
+### Modelos de Diagramas
 
 * **[AQUI SERÃO INSERIDOS OS DIAGRAMAS: Contexto, Componentes e Fluxo de Dados]**
     * *Nota:* O professor conferirá a inserção das imagens dos diagramas após a criação.
