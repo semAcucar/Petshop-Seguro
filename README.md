@@ -9,7 +9,7 @@
 
 ## 2. Requisitos Definidos
 
-### Requisitos Funcionais (Mínimo 5)
+### Requisitos Funcionais
 
 1.  **Cadastro de Cliente e Pet:** Registro de dados do dono (contato, endereço) e dados dos pets (nome, e alertas de saúde/alergias).
 2.  **Agendamento de Serviços:** Permite agendar serviços (banho, tosa, veterinário) com seleção de data, hora e profissional.
@@ -17,7 +17,7 @@
 4.  **Comunicação Automatizada:** Envio de lembretes e promoções **apenas** para clientes que deram consentimento.
 5.  **Consulta de Histórico:** Consulta rápida ao prontuário completo de um pet (histórico de serviços e alertas).
 
-### Requisitos Não-Funcionais (Segurança - Mínimo 5)
+### Requisitos Não-Funcionais
 
 1.  **Autenticação Forte:** Exigência de senha forte, *hashing* com *salt* e **limitação de tentativas de login** (*Rate Limiting*).
 2.  **Criptografia em Trânsito e Repouso:** Dados sensíveis devem ser criptografados **no banco de dados** e durante o **tráfego** (uso obrigatório de **HTTPS/TLS**).
