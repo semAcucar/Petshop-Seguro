@@ -50,11 +50,3 @@
 | **Denial of Service** | Sobrecarga do sistema na tela de agendamento. | **Limite de Taxa (Rate Limiting)**. |
 
 ---
-
-### 3. Salve as Alterações
-
-* **Ação:** Role a página até o final e clique no botão verde **Commit changes**.
-
-Com isso, o requisito de **Documentação no README (1,0 ponto)** estará totalmente atendido!
-
-Seu próximo passo é desenhar os **3 Diagramas de Arquitetura** e inseri-los no espaço reservado no `README`.
